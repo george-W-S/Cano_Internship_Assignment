@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Nexus-6 Synthetic Human",
+    "category": "Synthetics",
+    "environmental_impact": "3 (Average)",
+    "description": "Cost effective with vivid implanted memories, the Nexus-6 line has a maximum lifespan of 20 years. Their incurious programming makes them ideal for dangerous work. Available in servant and pleasure models. Serial number on the inside of the lower lip of the unit.\nAverage environmental impact [3] due to unrefined manufacturing process lowering costs.",
+    "image": "/../src/assets/nexus_6.png",
+    "price": "10 000 cr"
+  },
+  {
+    "name": "Nexus-7 Synthetic Human",
+    "category": "Synthetics",
+    "environmental_impact": "2 (Low)",
+    "description": "Nexus-7 replicant models come with implanted memories that help shape their personalities to the customer's requirements. Docile and friendly, Nexus-7 is ideal for childless couples or lonely individuals seeking friendship. Hardworking and honest, excellent for low-skilled work. Serial number hidden under the lower eyelid.\nLow environmental impact [2] due to advanced manufacturing process recycling all chemical products into the next model.",
+    "image": "/../src/assets/nexus_7.jpg",
+    "price": "20 000 cr"
+  },
+  {
+    "name": "Nexus-8 Synthetic Human",
+    "category": "Synthetics",
+    "environmental_impact": "1 (Very Low)",
+    "description": "Smarter. Faster. Stronger. More human than human. Nexus-8 replicants come pre-programed with the inability to lie to their handlers. An excellent choice for either space exploration or military applications. Lifespan between 10 to 150 years on demand. Slow aging. Optional implanted memories. Serial number encoded in DNA signature.\nVery low environmental impact [1] due to an as of yet undisclosed Wallace Corporation nanotechnology.",
+    "image": "/../src/assets/nexus_8.jpg",
+    "price": "50 000 cr"
+  },
+  {
+    "name": "JOI Artificial Companion with Fixed Emanator",
+    "category": "Artificials",
+    "environmental_impact": "4 (High)",
+    "description": "JOI tells you everything you want to hear. The fixed emanator produces a lifelike hologram requiring a permanent fixture to function. Perfect for small rooms and apartments. Available in male and female versions.\nHigh environmental impact [4] due to the shortage of rare earth metals and the required mining procedures to acquire more.",
+    "image": "/../src/assets/joi_fixed.jpg",
+    "price": "1000 cr"
+  },
+  {
+    "name": "JOI Artificial Companion with Portable Emanator",
+    "category": "Artificials",
+    "environmental_impact": "5 (Very High)",
+    "description": "Take your JOI on the go. The portable emanator produces a lifelike hologram without requiring a permanent fixture to function. It can work alongside the fixed emanator or replace it altogether. Available in male and female versions.\nVery high environmental impact [5] due to resources required for the manufacturing of the Wallace Corporation V6 Chipset.",
+    "image": "/../src/assets/joi_portable.jpg",
+    "price": "5000 cr"
+  },
+  {
+    "name": "Wallace Corporation Japanese Soil Fertilizer",
+    "category": "Organics",
+    "environmental_impact": "1 (Very Low)",
+    "description": "The famous Wallace Corporation patented fertilizer sourced from Japan that saved humanity from famine and brought life to lifeless planets. No description is needed.\nVery low environmental impact [1] due to a decades old perfected soil production patent. Miracle dirt for dirt cheap.",
+    "image": "/../src/assets/fertilizer.jpeg",
+    "price": "100 cr per pound"
+  }
+]

@@ -1,0 +1,97 @@
+.text-content {
+  font-family: "Fira Code", monospace;
+  color: white;
+  text-align: justify;
+  padding-left: 220px;
+  font-size: 1.2em;
+}
+
+.page-container {
+  display: flex;
+  padding-left: 220px;
+}
+
+.page-content {
+  flex: 1;
+  font-family: "Orbitron", sans-serif;
+  text-align: center;
+  padding: 20px;
+  font-size: 2em;
+  color: red;
+}
+
+.fira-code {
+  font-family: "Fira Code", monospace;
+}
+
+.product-image {
+  width: 100px;
+  height: auto;
+}
+
+.products-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 220px;
+}
+
+.product-item {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.product-container {
+  border: 2px solid red;
+  padding: 1px;
+  max-width: 300px;
+  margin-left: 20px;
+}
+
+.product-description {
+  flex: 1;
+  margin-left: 20px;
+  font-family: "Orbitron", sans-serif;
+  text-align: justify;
+  font-size: 1.5em;
+}
+
+.active {
+  color: white;
+  border-color: white;
+  background-color: red;
+}
+
+.filters-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 220px;
+  padding-bottom: 50px;
+}
+
+.filter-button {
+  margin-right: 10px;
+  margin-bottom: 10px;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: "Orbitron", sans-serif;
+  background-color: #000000;
+  color: #ed0013;
+  border: 1px solid #ed0013;
+  cursor: pointer;
+  transition: background-color 0.25s, border-color 0.25s, color 0.25s;
+  border-radius: 0;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+.filter-button:hover {
+  background-color: #ed0013;
+  border-color: #ffffff;
+  color: #ffffff;
+}
+
+input::placeholder {
+  color: red;
+  font-family: "Fira Code", monospace;
+}
